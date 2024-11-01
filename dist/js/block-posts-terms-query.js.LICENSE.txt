@@ -1,0 +1,6 @@
+/*!
+ * Post terms block.
+ *
+ * @handle taro-taxonomy-post-blocks-editor
+ * @deps wp-i18n, wp-data, wp-components, wp-blocks, wp-block-editor, wp-server-side-render, wp-compose, wp-data, taro-taxonomy-selector
+ */
